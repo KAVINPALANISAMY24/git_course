@@ -1,2 +1,2 @@
-# git_course
-In this course I've learned about basics of VCS in git
+
+I ma editing the README file. Adding some more details about the project description
